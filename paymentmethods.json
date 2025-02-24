@@ -1,5 +1,10 @@
 [
   {
+    "objectID": 1,
+    "title": "Medios de Mercado Pago",
+    "type": "PAYMENT_METHODS_GROUP"
+  },
+  {
     "objectID": 436535,
     "title": "Wheat Field with Cypresses",
     "artistDisplayName": "Vincent van Gogh",
