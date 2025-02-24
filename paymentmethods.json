@@ -11,7 +11,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1567.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "European Paintings",
-    "creditLine": "Purchase, The Annenberg Foundation Gift, 1993"
+    "creditLine": "Purchase, The Annenberg Foundation Gift, 1993",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 11207,
@@ -25,7 +26,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT2784.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "The American Wing",
-    "creditLine": "Gift of William Church Osborn, 1902"
+    "creditLine": "Gift of William Church Osborn, 1902",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 202192,
@@ -39,7 +41,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP149951.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "European Sculpture and Decorative Arts",
-    "creditLine": "Gift of Samuel H. Kress Foundation, 1958"
+    "creditLine": "Gift of Samuel H. Kress Foundation, 1958",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 11227,
@@ -53,7 +56,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT264804.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "The American Wing",
-    "creditLine": "Gift of George I. Seney, 1887"
+    "creditLine": "Gift of George I. Seney, 1887",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 11120,
@@ -67,7 +71,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DP119111.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "The American Wing",
-    "creditLine": "Amelia B. Lazarus Fund, 1910"
+    "creditLine": "Amelia B. Lazarus Fund, 1910",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 436532,
@@ -81,7 +86,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1502_cropped2.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "European Paintings",
-    "creditLine": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967"
+    "creditLine": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 438817,
@@ -95,7 +101,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20101-001.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "European Paintings",
-    "creditLine": "Bequest of Mrs. Harry Payne Bingham, 1986"
+    "creditLine": "Bequest of Mrs. Harry Payne Bingham, 1986",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 10997,
@@ -109,7 +116,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT2046.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "The American Wing",
-    "creditLine": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1963"
+    "creditLine": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1963",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 436528,
@@ -123,7 +131,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP346474.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "European Paintings",
-    "creditLine": "Gift of Adele R. Levy, 1958"
+    "creditLine": "Gift of Adele R. Levy, 1958",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 13137,
@@ -137,7 +146,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DP259785.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "The American Wing",
-    "creditLine": "Morris K. Jesup Fund, 1973"
+    "creditLine": "Morris K. Jesup Fund, 1973",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 11619,
@@ -151,7 +161,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT72.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "The American Wing",
-    "creditLine": "Purchase, Bequest of Charles Allen Munn, by exchange, 1966"
+    "creditLine": "Purchase, Bequest of Charles Allen Munn, by exchange, 1966",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 11737,
@@ -165,7 +176,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT64.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "The American Wing",
-    "creditLine": "Maria DeWitt Jesup Fund, 1959"
+    "creditLine": "Maria DeWitt Jesup Fund, 1959",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 503046,
@@ -179,7 +191,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/mi/web-large/DP225545.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "Musical Instruments",
-    "creditLine": "Gift of Mrs. Henry McSweeney, 1959"
+    "creditLine": "Gift of Mrs. Henry McSweeney, 1959",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 503219,
@@ -193,7 +206,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/mi/web-large/DP331229.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "Musical Instruments",
-    "creditLine": "Purchase, Louis V. Bell Fund, Mrs. Vincent Astor Gift, and funds from various donors, 1982"
+    "creditLine": "Purchase, Louis V. Bell Fund, Mrs. Vincent Astor Gift, and funds from various donors, 1982",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 11396,
@@ -207,7 +221,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT5586.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "The American Wing",
-    "creditLine": "Purchase, Rogers and Fletcher Funds, Erving and Joyce Wolf Fund, Raymond J. Horowitz Gift, Bequest of Richard De Wolfe Brixey, by exchange, and John Osgood and Elizabeth Amis Cameron Blanchard Memorial Fund, 1978"
+    "creditLine": "Purchase, Rogers and Fletcher Funds, Erving and Joyce Wolf Fund, Raymond J. Horowitz Gift, Bequest of Richard De Wolfe Brixey, by exchange, and John Osgood and Elizabeth Amis Cameron Blanchard Memorial Fund, 1978",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 738466,
@@ -221,7 +236,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/li/web-large/b1100612_001.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "The Libraries",
-    "creditLine": ""
+    "creditLine": "",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 437299,
@@ -235,7 +251,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1859.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "European Paintings",
-    "creditLine": "Bequest of William Church Osborn, 1951"
+    "creditLine": "Bequest of William Church Osborn, 1951",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 506174,
@@ -249,7 +266,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/mi/web-large/DP229625.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "Musical Instruments",
-    "creditLine": "Purchase, Robert Alonzo Lehman Bequest, Acquisitions Fund, and Frederick M. Lehman Bequest, 2010"
+    "creditLine": "Purchase, Robert Alonzo Lehman Bequest, Acquisitions Fund, and Frederick M. Lehman Bequest, 2010",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 11311,
@@ -263,7 +281,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT84.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "The American Wing",
-    "creditLine": "Bequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914"
+    "creditLine": "Bequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 250551,
@@ -277,7 +296,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/gr/web-large/DP218568.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "Greek and Roman Art",
-    "creditLine": "Rogers Fund, 1917"
+    "creditLine": "Rogers Fund, 1917",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 14931,
@@ -291,7 +311,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT104.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "The American Wing",
-    "creditLine": "Marguerite and Frank A. Cosgrove Jr. Fund, 1993"
+    "creditLine": "Marguerite and Frank A. Cosgrove Jr. Fund, 1993",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 436323,
@@ -305,7 +326,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-1019-01.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "European Paintings",
-    "creditLine": "Fletcher Fund, 1937"
+    "creditLine": "Fletcher Fund, 1937",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 459028,
@@ -319,7 +341,8 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP221485.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "Robert Lehman Collection",
-    "creditLine": "Robert Lehman Collection, 1975"
+    "creditLine": "Robert Lehman Collection, 1975",
+    "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 10481,
@@ -333,6 +356,7 @@
     "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT78.jpg",
     "repository": "Metropolitan Museum of Art, New York, NY",
     "department": "The American Wing",
-    "creditLine": "Bequest of Margaret E. Dows, 1909"
+    "creditLine": "Bequest of Margaret E. Dows, 1909",
+    "type": "PAYMENT_METHOD"
   }
 ]
