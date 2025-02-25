@@ -50,6 +50,11 @@
     "type": "PAYMENT_METHOD"
   },
   {
+    "objectID": 2,
+    "title": "Otros medios",
+    "type": "PAYMENT_METHODS_GROUP"
+  },
+  {
     "objectID": 11227,
     "title": "Autumn Oaks",
     "artistDisplayName": "George Inness",
