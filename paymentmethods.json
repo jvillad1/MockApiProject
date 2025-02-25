@@ -6,14 +6,14 @@
   },
   {
     "objectID": 436535,
-    "minicardImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1567.jpg",
+    "minicardImage": "https://github.com/jvillad1/MockApiProject/blob/main/card_mp.png?raw=true",
     "name": "Tarjeta de crédito **** 1234",
     "balanceOrLimit": "Límite disponible: $ 500.000",
     "type": "PAYMENT_METHOD"
   },
   {
     "objectID": 11207,
-    "minicardImage": "https://images.metmuseum.org/CRDImages/ad/web-large/DT2784.jpg",
+    "minicardImage": "https://github.com/jvillad1/MockApiProject/blob/main/account_money.png?raw=true",
     "name": "Dinero disponible",
     "balanceOrLimit": "$ 350",
     "type": "PAYMENT_METHOD"
