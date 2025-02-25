@@ -33,7 +33,7 @@
   },
   {
     "objectID": 11227,
-    "minicardImage": "https://github.com/jvillad1/MockApiProject/blob/main/nubank.png",
+    "minicardImage": "https://github.com/jvillad1/MockApiProject/blob/main/nubank.png?raw=true",
     "name": "Nubank **** 5000",
     "balanceOrLimit": "Mastercard Crédito",
     "valueProp": "Paga en hasta 10 cuotas",
