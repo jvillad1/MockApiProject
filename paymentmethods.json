@@ -10,6 +10,7 @@
     "cardImage": "https://github.com/jvillad1/MockApiProject/blob/main/card_mp_big.png?raw=true",
     "name": "Tarjeta de crédito **** 1234",
     "balanceOrLimit": "Límite disponible: $ 500.000",
+    "installments": [],
     "type": "PAYMENT_METHOD"
   },
   {
@@ -27,6 +28,7 @@
     "name": "Línea de Crédito",
     "balanceOrLimit": "Límite disponible: $ 5.000.000",
     "valueProp": "Paga en hasta 12 cuotas sin tarjeta",
+    "installments": [],
     "type": "PAYMENT_METHOD"
   },
   {
@@ -41,6 +43,7 @@
     "name": "Nubank **** 5000",
     "balanceOrLimit": "Mastercard Crédito",
     "valueProp": "Paga en hasta 10 cuotas",
+    "installments": [],
     "type": "PAYMENT_METHOD"
   }
 ]
