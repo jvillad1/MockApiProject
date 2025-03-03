@@ -7,6 +7,7 @@
   {
     "objectID": 436535,
     "minicardImage": "https://github.com/jvillad1/MockApiProject/blob/main/card_mp.png?raw=true",
+    "cardImage": "https://github.com/jvillad1/MockApiProject/blob/main/card_mp_big.png?raw=true",
     "name": "Tarjeta de crédito **** 1234",
     "balanceOrLimit": "Límite disponible: $ 500.000",
     "type": "PAYMENT_METHOD"
@@ -14,6 +15,7 @@
   {
     "objectID": 11207,
     "minicardImage": "https://github.com/jvillad1/MockApiProject/blob/main/account_money.png?raw=true",
+    "cardImage": "https://github.com/jvillad1/MockApiProject/blob/main/account_money.png?raw=true",
     "name": "Dinero disponible",
     "balanceOrLimit": "$ 350",
     "type": "PAYMENT_METHOD"
@@ -21,6 +23,7 @@
   {
     "objectID": 202192,
     "minicardImage": "https://github.com/jvillad1/MockApiProject/blob/main/credits.png?raw=true",
+    "cardImage": "https://github.com/jvillad1/MockApiProject/blob/main/credits.png?raw=true",
     "name": "Línea de Crédito",
     "balanceOrLimit": "Límite disponible: $ 5.000.000",
     "valueProp": "Paga en hasta 12 cuotas sin tarjeta",
@@ -34,6 +37,7 @@
   {
     "objectID": 11227,
     "minicardImage": "https://github.com/jvillad1/MockApiProject/blob/main/nubank.png?raw=true",
+    "cardImage": "https://github.com/jvillad1/MockApiProject/blob/main/nubank_big.png?raw=true",
     "name": "Nubank **** 5000",
     "balanceOrLimit": "Mastercard Crédito",
     "valueProp": "Paga en hasta 10 cuotas",
