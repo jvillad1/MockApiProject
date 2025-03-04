@@ -10,7 +10,23 @@
     "cardImage": "https://github.com/jvillad1/MockApiProject/blob/main/card_mp_big.png?raw=true",
     "name": "Tarjeta de crédito **** 1234",
     "balanceOrLimit": "Límite disponible: $ 500.000",
-    "installments": [],
+    "installments": [
+      {
+        "quantity": "1x {$} {Monto}",
+        "valueProp": "Value Prop",
+        "total": "{Total}"
+      },
+      {
+        "quantity": "2x {$} {Monto}",
+        "valueProp": "Value Prop",
+        "total": "{Total}"
+      },
+      {
+        "quantity": "3x {$} {Monto}",
+        "valueProp": "Value Prop",
+        "total": "{Total}"
+      },
+    ],
     "type": "PAYMENT_METHOD"
   },
   {
