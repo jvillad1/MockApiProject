@@ -13,20 +13,19 @@
     "installments": [
       {
         "id": 1,
-        "quantity": "1x {$} {Monto}",
+        "detail": "1x {$} {Monto}",
         "valueProp": "Value Prop",
         "total": "{Total}"
       },
       {
         "id": 2,
-        "quantity": "2x {$} {Monto}",
-        "valueProp": "Value Prop",
-        "total": "{Total}"
+        "detail": "2x {$} {Monto}",
+        "total": "{Total}",
+        "feesTaxes": "CET: 50%"
       },
       {
         "id": 3,
-        "quantity": "3x {$} {Monto}",
-        "valueProp": "Value Prop",
+        "detail": "3x {$} {Monto}",
         "total": "{Total}"
       }
     ],
@@ -47,7 +46,25 @@
     "name": "Línea de Crédito",
     "balanceOrLimit": "Límite disponible: $ 5.000.000",
     "valueProp": "Paga en hasta 12 cuotas sin tarjeta",
-    "installments": [],
+    "installments": [
+      {
+        "id": 1,
+        "detail": "1x {$} {Monto}",
+        "valueProp": "Value Prop",
+        "total": "{Total}"
+      },
+      {
+        "id": 2,
+        "detail": "2x {$} {Monto}",
+        "total": "{Total}",
+        "feesTaxes": "CET: 50%"
+      },
+      {
+        "id": 3,
+        "detail": "3x {$} {Monto}",
+        "total": "{Total}"
+      }
+    ],
     "type": "PAYMENT_METHOD"
   },
   {
@@ -62,7 +79,25 @@
     "name": "Nubank **** 5000",
     "balanceOrLimit": "Mastercard Crédito",
     "valueProp": "Paga en hasta 10 cuotas",
-    "installments": [],
+    "installments": [
+      {
+        "id": 1,
+        "detail": "1x {$} {Monto}",
+        "valueProp": "Value Prop",
+        "total": "{Total}"
+      },
+      {
+        "id": 2,
+        "detail": "2x {$} {Monto}",
+        "total": "{Total}",
+        "feesTaxes": "CET: 50%"
+      },
+      {
+        "id": 3,
+        "detail": "3x {$} {Monto}",
+        "total": "{Total}"
+      }
+    ],
     "type": "PAYMENT_METHOD"
   }
 ]
