@@ -25,7 +25,7 @@
         "quantity": "3x {$} {Monto}",
         "valueProp": "Value Prop",
         "total": "{Total}"
-      },
+      }
     ],
     "type": "PAYMENT_METHOD"
   },
