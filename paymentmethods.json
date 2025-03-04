@@ -12,16 +12,19 @@
     "balanceOrLimit": "Límite disponible: $ 500.000",
     "installments": [
       {
+        "id": 1,
         "quantity": "1x {$} {Monto}",
         "valueProp": "Value Prop",
         "total": "{Total}"
       },
       {
+        "id": 2,
         "quantity": "2x {$} {Monto}",
         "valueProp": "Value Prop",
         "total": "{Total}"
       },
       {
+        "id": 3,
         "quantity": "3x {$} {Monto}",
         "valueProp": "Value Prop",
         "total": "{Total}"
